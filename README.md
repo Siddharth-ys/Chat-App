@@ -20,7 +20,7 @@ https://chat-app-1bxo.onrender.com
 Clone the project
 
 ```bash
-  git clone https://github.com/RohanTR-007/chat-application-MERN/
+  git clone https://github.com/Siddharth-ys/Chat-App.git
 ```
 
 Go to the project directory
